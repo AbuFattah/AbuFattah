@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbuFattah
 - 👀 I’m an aspiring web developer.
-- 🌱 I’m currently learning ReactJs, NodeJs.
+- 🌱 I’m currently learning ReactJs.
 - 📫 You can reach me through...
   Email: mdnahid142493@gmail.com
 
