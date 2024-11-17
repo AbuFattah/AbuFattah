@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbuFattah from Bangladesh.
 - 👀 A tech fanatic who is exploring his potential to grow a career in web development.
-- 🌱 I’m currently learning MERN stack.
 - 📫 You can reach me through...
   Email: mdnahid142493@gmail.com
 
